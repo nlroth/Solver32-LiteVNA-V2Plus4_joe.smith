@@ -1,5 +1,3 @@
-Coming Soon!!
-
 # Solver32-LiteVNA-V2Plus4
 Solver32 is a 32-bit application for the LiteVNA as well as the V2Plus4.  It was developed using National Instruments LabView 2011.
 
