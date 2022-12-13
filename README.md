@@ -7,20 +7,25 @@ Solver32 is my continued efforts to create software for the new LiteVNA but base
 
 3.07
 Add TDR memory
+
 3.08
 Add Eye Diagrams
 When inporting Touchstone, set start and stop freq
 Add time domain to plot sensitivity list
 Add advanced plot trigger to eye mask and clear
+
 3.09
 Add Tab delimiter to the Touchstone file import function
 Parallel the accumulator used for average
 Limit the eye synthesized test signal's frequecy and data points
+
 3.10
 Remove the eye trim fringe
 Add min/max fast mask limit test
+
 3.11
-Add time domain gating 
+Add time domain gating
+
 3.12
 Remove inverter for drawing mesh 
 Change all axis to 3 place, SI units
@@ -29,6 +34,7 @@ Change instructuctions for antenna sweep
 Change state 13 Antenna sweep to 22 (don't reset elevation in 2D)
 Change state 4  to set elevation to 0 deg if in 2D
 Change state 22 to calculate for both 3D and 2D
+
 3.13
 Add Gain and Phase to all three plots
 When using CW add interpolate for S21 and S12. 
