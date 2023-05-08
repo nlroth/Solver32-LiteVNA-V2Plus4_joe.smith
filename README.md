@@ -41,6 +41,29 @@ When using CW add interpolate for S21 and S12.
 
 https://www.youtube.com/watch?v=TAsdr4ypBko
 
+3.14
+Add grid / mesh select for post processing 3D
+Change labels on 3D graph
+Turn on light source 1
+When using lower sideband, reverse Touchstone order
+
+3.15
+Allow loading 2D antenna plots  and saving to memory
+Allow indexing through the elevation in 2D plots
+Add ability to use an external directional coupler by using Port2
+data in place of Port1
+Add FreqExtender, Sideband and Coupler to the default settings file
+Add support for sliding load
+
+3.16, 4/3/2023
+Add relative when using both the external coupler and frequency extender
+When using the external coupler and/or extender, use the targeted freqs for the front
+  panel settings.   Saves user from having to calc the target.
+Allow memory to autoscale XY return loss graphs
+Add the connector type and cutoff frequency to the calibration standards rather than manual entery.  
+Maximum frequency was also added but is not used at this time.    
+
+
 
 ![IFBW_Sweep5](https://user-images.githubusercontent.com/75591001/164912566-fd5b801e-4f2f-49ac-b391-4cb2a0e45f8e.PNG)
 
